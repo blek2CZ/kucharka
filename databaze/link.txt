@@ -1,1 +1,0 @@
-mongodb+srv://cookbook:Plotice1@cluster0.niovfuw.mongodb.net/?retryWrites=true&w=majority
